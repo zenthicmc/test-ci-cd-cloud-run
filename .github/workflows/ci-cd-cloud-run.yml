@@ -38,3 +38,4 @@ jobs:
             --platform managed \
             --region asia-southeast2 \
             --allow-unauthenticated
+            --port 3000
